@@ -3,6 +3,7 @@
 # Emily Milstead
 
 #ggplot
+import pandas as pd
 from ggplot import *
 import numpy as np
 
