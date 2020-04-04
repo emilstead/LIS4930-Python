@@ -1,4 +1,4 @@
-# Module #10 - ggplot2
+# Module #10 - ggplot
 # 03/28/2020 
 # Emily Milstead
 
