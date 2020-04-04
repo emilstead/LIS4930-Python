@@ -2,7 +2,7 @@
 # 03/28/2020 
 # Emily Milstead
 
-#ggplot2
+#ggplot
 from ggplot import *
 import numpy as np
 
@@ -14,5 +14,5 @@ data = {
 }
 
 
-ggplot2 (data, aes(x='Countires', y='Positive Cases of COVID-19'), data = 'data' +\
+ggplot (data, aes(x='Countires', y='Positive Cases of COVID-19'), data = 'data' +\
  	geom_bar())
